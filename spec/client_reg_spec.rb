@@ -30,7 +30,7 @@ describe ClientCli do
 
   after :all do cleanup_target end
 
-  it 'registers a new client' do
+  it 'registers a new client', focus: true do
     @test_client.should be # actually registered in the before :all block
   end
 
