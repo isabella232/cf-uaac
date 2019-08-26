@@ -18,7 +18,7 @@ require 'uaa/cli/version'
 Gem::Specification.new do |s|
   s.name        = 'cf-uaac'
   s.version     = CF::UAA::CLI_VERSION
-  s.authors     = ['Dave Syer', 'Dale Olds', 'Joel D\'sa', 'Vidya Valmikinathan', 'Luke Taylor']
+  s.authors     = ['Dave Syer', 'Dale Olds', 'Joel D\'sa', 'Vidya Valmikinathan', 'Luke Taylor', 'it me!']
   s.email       = ['dsyer@vmware.com', 'olds@vmware.com', 'jdsa@vmware.com', 'vidya@vmware.com', 'ltaylor@vmware.com']
   s.homepage    = 'https://github.com/cloudfoundry/cf-uaac'
   s.summary     = %q{Command line interface for CloudFoundry UAA}
